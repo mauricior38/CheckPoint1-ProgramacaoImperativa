@@ -39,5 +39,5 @@ function preparaPrato(escolha, tempoEscolhido) {
         }    
     }
 }
-
+ 
 preparaPrato(5, 30);
